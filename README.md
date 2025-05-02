@@ -1,4 +1,5 @@
 🧮 Text-to-Math Problem Solver & Wikipedia-Powered Assistant (Gemma 2)
+
 This project is an intelligent Streamlit chatbot application designed to solve math problems, answer reasoning-based questions, and search for general knowledge using Wikipedia—all powered by Gemma 2 (9B) via Groq’s blazing-fast LLM infrastructure and the LangChain framework. Users can input natural language questions involving basic or moderately complex math operations, logical reasoning, or general knowledge, and the assistant provides point-by-point solutions or relevant information accordingly.
 
 The assistant works by combining several tools:
